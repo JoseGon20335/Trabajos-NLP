@@ -1,3 +1,8 @@
-./myenv
-./lab#7/data
-./lab#7/output
+# Ignorar la carpeta del entorno virtual
+myenv/
+
+# Ignorar la carpeta de datos dentro de lab#7
+lab#7/data/
+
+# Ignorar la carpeta de salida dentro de lab#7
+lab#7/output/
